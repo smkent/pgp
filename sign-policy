@@ -1,0 +1,22 @@
+#!/bin/sh
+
+POLICY_TEMPLATE="policy-template.md"
+POLICY_DOCUMENT="README.md"
+
+# Wrap each of the PGP header and signature blocks with three backticks
+# (```) to display them in fixed-width font in the rendered Markdown output.
+# The inner backtick lines are part of the signed data, while the outer
+# backtick lines are considered as extraneous data by GnuPG and ignored.
+cd "$(dirname "${0}")" || exit
+(
+    echo "\`\`\`"
+    (
+        echo "\`\`\`"
+        cat "${POLICY_TEMPLATE}"
+        echo "\`\`\`"
+    ) | gpg --clearsign
+    echo "\`\`\`"
+) > "${POLICY_DOCUMENT}"
+
+# Ensure commits in this repository are signed
+git config --local commit.gpgSign true
