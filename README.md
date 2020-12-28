@@ -94,23 +94,23 @@ repository's commit history][commits].
 [commits]: https://github.com/smkent/pgp/commits/master
 [gitref]: https://git-scm.com/book/en/v2/Git-Internals-Git-References
 [gnupg]: https://www.gnupg.org/
-[pubkey]: https://sks-keyservers.net/pks/lookup?op=vindex&fingerprint=on&search=0x0342C80999FB1A06FD0F95338392C992D92500A9
+[pubkey]: https://keys.openpgp.org/search?q=0x0342C80999FB1A06FD0F95338392C992D92500A9
 [self]: /README.md
 ```
 -----BEGIN PGP SIGNATURE-----
 
-iQIcBAEBCgAGBQJX6y2AAAoJEOtpYCKbPiprs5gQAON6HRJtTSw8iglX7QsBI+7g
-RJRnsXuqflSonE1CMcF3OCvFzBu40mW7b6zKtYMnma0nuIN9dBa5jAQKWrPVXzin
-+vYE5sTdhIOPLAH5ycnHWXNYKdoZv0kR861xyrPZrsrSmC0NnzJwyOwJMyGA+DHR
-qp6tpafrBSDKgoxWuLcAm+Va403IrPTcmIu+6wWcWmZ8XIoD9e29f4U9pShof7e4
-YWjnrFGNYPXmSt01Kme5o5t9VKQ4fDK8hBbNnMtLnOundIbaItXTFP/0RcR4NfA9
-AIZqJvYbes5lrz0dxsoOFoszgyZIN+2lMoWBhefjHRkZLjrXxqIUwjHHjG642rsE
-rFVLKyYjgIRT+sq+s4SejF7b+xfk7v2n8iCfbTRqg4iWdOFdz4rYSiPfPRzrFZGG
-cn3BXO5RGepDjLZ6P/819xmPr08VuiUAewSq0VStU/xlcF0QsD/Ix/O3ySpkVJjv
-eI2ZB76PZlGVZPHf0iduDSeGvxt6HBT4hmJcCnhh+T/lPWQEph0otn+FC3Wjwlsp
-ivHEb3ECavF71EDk9SX+GHqaRFhzxNVVXLpQ8u2DISNAJqXZziLZrJPjGN47RdLT
-oCrfrz/vzpWlnuFmIulIXaKeSaI15omt6z9rAN9gVHkhDTyYBdWaYMeAEn47XiWA
-hVFNe2+KUdyTmBncJqnv
-=q87E
+iQIzBAEBCgAdFiEELzwhe+BXPUKPZyKW62lgIps+KmsFAl/qVw0ACgkQ62lgIps+
+KmtIQg/+Lw3/kxOJaqFyYY+y3ahDvXSHcO2aSLktpnBmNNNRsaZKFh+vPBIMoVLL
+QUN24q7OrB3x3+oablKmd1WT5vKIuM4FLOUmkT0ZZ5O4P5ZuLjInYA1/0JtSc4R4
+jsCOjaNEYtJSU1IY+0yEoeJMQgZXi04ctDFAofW0kUpQOgO5ULhqgCCY0CmxI/lj
+k/WQqqe83K7jGQM7kKlTDMXCxkQyYyLipwnTsWODdPrkV1lWCMVVhvvNuRFBiDCr
+l6bAYIYHleKEzKKN6Woown3Kb+PzHbGbPZKmgQ2xAzOw+uxxSdTe/vzbi10Ge9l9
+U8Jl/nQwKjsIAyC2PDI6Qm8A39xPzPtURxknK1v8KrBZnnLdIVdH5Xu+yW2J/UyW
+x7Yx2KvWO6bUdEkcfsfa9T6Mg2jZcBeVL4Y4n8rBfTw1tZy9BvSnYxZGXPY0NvyV
+A5em1bd7Mhie1m9wz1Ir0RrKjxWp19GQSeOouHEPIgWKVtsyI5o6f2qwnGkEAY0m
+q/5QrUrjsJ/jkRSPZVUFov3+VU/d8+3wWHOx4V5eOaXNeNzqg5ocdxwKHH4XJXx/
+Scaozr9qhZzpzM30A02NJXjdN9LkR/XWd7L5sFo+Nh9HeV0+OsWVCx4OYjimx0q/
+s7mfDjRDNt+6kvAXhEYT+QDYOxoAcwOaljS/bKDhQjMu/9XTuFY=
+=lFqU
 -----END PGP SIGNATURE-----
 ```

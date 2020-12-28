@@ -89,5 +89,5 @@ repository's commit history][commits].
 [commits]: https://github.com/smkent/pgp/commits/master
 [gitref]: https://git-scm.com/book/en/v2/Git-Internals-Git-References
 [gnupg]: https://www.gnupg.org/
-[pubkey]: https://sks-keyservers.net/pks/lookup?op=vindex&fingerprint=on&search=0x0342C80999FB1A06FD0F95338392C992D92500A9
+[pubkey]: https://keys.openpgp.org/search?q=0x0342C80999FB1A06FD0F95338392C992D92500A9
 [self]: /README.md
